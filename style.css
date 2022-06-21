@@ -9,7 +9,8 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: #f5f8ff;
+  /* background: #f5f8ff; */
+  background: rgb(247, 218, 223);
 }
 .container {
   margin: 0 40px;
@@ -26,7 +27,7 @@ body {
   background: #fff;
   padding: 0 20px 20px;
   box-shadow: 0 15px 25px rgba(0, 0, 0, 0.05);
-  border-radius: 5px;
+  border-radius: 13px;
   overflow: hidden;
 }
 .container .tab input {
